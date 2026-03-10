@@ -1,4 +1,4 @@
-# 一种新型神经网络设结构设计
+# The fundamental idea of deep self-organizing neural networks
 Author： 大饼博士，188997452@qq.com;\
 Co-authors： xxx
 
