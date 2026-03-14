@@ -4,7 +4,7 @@
 
 
 ## ✏️ 说明
-我会在业余时间、以个人名义，在这个仓写一篇文章（目前还只是draft），标题是“The fundamental idea of deep self-organizing neural networks”。我手上没有GPU硬件条件可以做大规模的实验。如果有人有兴趣一起合作，基于本文的idea进行研究，完成模型的训练和测试，并做出任何结果，都可以联系我: 188997452@qq.com， 或者通过github issues进行讨论。
+我会在业余时间、以个人名义，在这个仓写一篇文章（目前还只是draft，english版本后续也会提供），标题是“The fundamental idea of deep self-organizing neural networks”。我手上没有GPU硬件条件可以做大规模的实验。如果有人有兴趣一起合作，基于本文的idea进行研究，完成模型的训练和测试，并做出任何结果，都可以联系我: 188997452@qq.com， 或者通过github issues进行讨论。
 
 - 方法完全公开，你可以和我一起讨论，也可以自行验证/使用/修改/创新；
 
